@@ -249,7 +249,7 @@ def main():
             # Appel de la fonction animate_drone_movement
             animate_drone_movement(
                 array_lidar=array_lidar,
-                max_planes=15,
+                
 
                 distance_threshold=0.05,
                 ransac_n=3,
